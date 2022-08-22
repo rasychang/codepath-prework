@@ -1,11 +1,11 @@
 ## IOS first project
 
 ### App Description
-`TODO://` Learning the basic IOS app development, create the button and label, and do the color changing with text, background and button or label color. Also, we use class ViewController to do the action if we clicked by our mouse, we need to connect our objects on the view to our code. Moreover, we learned how to create a GIF animation. 
+Learning the basic IOS app development, create the button and label, and do the color changing with text, background and button or label color. Also, we use class ViewController to do the action if we clicked by our mouse, we need to connect our objects on the view to our code. Moreover, we learned how to create a GIF animation. 
 
 
 
-<img src="https://recordit.co/NTWUuDsKKO" width=200><br>
+<img src="http://g.recordit.co/NTWUuDsKKO.gif" width=200><br>
 
 
 ### Required User Stories
